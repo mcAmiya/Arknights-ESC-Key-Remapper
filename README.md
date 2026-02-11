@@ -7,4 +7,10 @@
 ## 运行
 1. `win` + `r` 弹出运行窗口
 2. 输入 `powershell`
-3. 在 `powershell` 中输入 `irm https://raw.githubusercontent.com/mcAmiya/Arknights-ESC-Key-Remapper/refs/heads/main/Arknights-ESC-Key-Remapper.ps1 | iex` 回车执行
+3. 在 `powershell` 中输入
+
+    国内输入这个：`irm https://gitee.com/mcAmiya/Arknights-ESC-Key-Remapper/raw/main/Arknights-ESC-Key-Remapper.ps1 | iex`
+
+    国外输入这个：`irm https://raw.githubusercontent.com/mcAmiya/Arknights-ESC-Key-Remapper/refs/heads/main/Arknights-ESC-Key-Remapper.ps1 | iex`
+
+    回车执行
