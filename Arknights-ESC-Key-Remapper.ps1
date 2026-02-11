@@ -1,5 +1,5 @@
-# SetArknightsPCVerESCKey.ps1
-# Version: 202602112356
+# Arknights-ESC-Key-Remapper.ps1
+# Version: 20260211235
 Write-Host "=====欢迎使用Arknights 暂停快捷键修改脚本=====" -ForegroundColor Cyan
 Write-Host "欢迎关注up主：Fer_Amiya 当前版本：202602112356" -ForegroundColor Cyan
 Write-Host "==============================================" -ForegroundColor Cyan
